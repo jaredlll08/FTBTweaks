@@ -21,3 +21,4 @@
 *.eml
 usernamecache.json
 /server
+/bin/
