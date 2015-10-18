@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ftbt",
+  "name": "FTB Tweaks",
+  "description": "Allows you to have multiple Recipe Modes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jaredlll08, LatvianModder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
