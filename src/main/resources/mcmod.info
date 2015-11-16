@@ -7,10 +7,10 @@
   "mcversion": "${mcversion}",
   "url": "http://minecraft.curseforge.com/projects/ftb-tweaks",
   "updateUrl": "",
-  "authorList": ["Jaredlll08"],
+  "authorList": [ "Jaredlll08" ],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [ "MineTweaker3", "FTBL" ]
 }
 ]
