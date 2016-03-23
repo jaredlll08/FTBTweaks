@@ -29,8 +29,8 @@ public class ReloadHandler
 
 		ArrayList<IScriptProvider> providers = new ArrayList<IScriptProvider>();
 
-		providers.add(new ScriptProviderDirectory(e.getCommonFile("scripts")));
 		providers.add(new ScriptProviderDirectory(e.getFile("scripts")));
+		providers.add(new ScriptProviderDirectory(e.getCommonFile("scripts")));
 
 		// Don't have to mkdir these because MT does that for us already.
 		providers.add(new ScriptProviderDirectory(new File("scripts")));
