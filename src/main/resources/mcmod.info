@@ -1,15 +1,16 @@
-[{
+[
+{
   "modid": "FTBT",
   "name": "FTB Tweaks",
   "description": "Allows you to have multiple Recipe Modes.",
   "version": "${version}",
-  "mcversion": "1.11.2",
+  "mcversion": "${mcversion}",
   "url": "http://minecraft.curseforge.com/projects/ftb-tweaks",
   "updateUrl": "",
-  "authorList": ["Jaredlll08"],
+  "authorList": [ "Jaredlll08" ],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
-  "parent":"",
-  "dependencies": ["MineTweaker3", "FTBL"]
-}]
+  "dependencies": [ "MineTweaker3", "FTBL" ]
+}
+]
