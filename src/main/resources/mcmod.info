@@ -11,6 +11,9 @@
   "credits": "",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": [ "MineTweaker3", "FTBL" ]
+  "dependencies": [
+    "crafttweaker",
+    "ftbl"
+  ]
 }
 ]
