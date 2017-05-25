@@ -38,7 +38,7 @@ public enum FTBTweaks implements IFTBLibPlugin
     }
     
     @SubscribeEvent
-    public static void onReload(ReloadEvent event)
+    public void onReload(ReloadEvent event)
     {
         Side side = event.getSide();
         
